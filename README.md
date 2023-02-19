@@ -211,3 +211,6 @@
     <img alingn="center" src="https://profile-counter.glitch.me/brunogdz/count.svg"/>
 </p>
 
+  
+![snake gif](https://github.com/DsBrito/DsBrito/blob/output/github-contribution-grid-snake.svg)
+
