@@ -6,6 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=927DF7&vCenter=true&width=500&height=40&lines=Hi+there%2C+I'm+Dionatas!;I'm+a+computer+engineer+student;Check+out+my+work+bellow+%F0%9F%98%8A)](https://git.io/typing-svg)
 
 ---
+[<img align="right" width="20%" src="assets/cat-typing.gif">](assets/cat-typing.gif)
 
 
 <h3 align="left">About me</h3>
