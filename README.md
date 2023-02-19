@@ -161,9 +161,9 @@
 
 <h3 align="left">Others States</h3>
 
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=dsbrito&hide=contribs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&border_color=545768A5">
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=dsbrito&hide=contribs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&border_color=545768A5">
 
-<img align="left" width="47%" src="http://github-readme-streak-stats.herokuapp.com?user=dsbrito&theme=monokai-metallian&background=0D1116&border=545768A5&stroke=52415BC1&ring=AD08C6D8&fire=CE09ECD8&currStreakNum=A4AACB&sideNums=A4AACB&currStreakLabel=007EC6&sideLabels=007EC6">
+<img align="left" width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=dsbrito&theme=monokai-metallian&background=0D1116&border=545768A5&stroke=52415BC1&ring=AD08C6D8&fire=CE09ECD8&currStreakNum=A4AACB&sideNums=A4AACB&currStreakLabel=007EC6&sideLabels=007EC6">
 <div style="display: inline_block" align="left">
 
 
