@@ -166,11 +166,7 @@
 <img align="right" width="47%" src="http://github-readme-streak-stats.herokuapp.com?user=dsbrito&theme=monokai-metallian&background=0D1116&border=545768A5&stroke=52415BC1&ring=AD08C6D8&fire=CE09ECD8&currStreakNum=A4AACB&sideNums=A4AACB&currStreakLabel=007EC6&sideLabels=007EC6">
 <div style="display: inline_block" align="left">
 
-      <p>
-  
-      <br /><br />
-       <br /><br />
-    </p>
+
 ## CONTATC <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=30 alt="GIT"/>
 <p align='left' gap='30px'>
  
