@@ -1,5 +1,5 @@
 
-# WELCOE TO MY GITHUB PAGE! 😄👋<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=30 alt="GIT"/>
+# WELCOME TO MY GITHUB PAGE! 😄👋<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=30 alt="GIT"/>
 <p align='left' gap='30px'>
 
 
