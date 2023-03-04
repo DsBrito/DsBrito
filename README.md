@@ -60,7 +60,7 @@
     <p align="justify">
      Here is my whole trajectory at university (gradually updated), can be accessed by
       clicking
-      <a href="https://github.com/DsBrito?tab=repositories"
+      <a href="https://github.com/DsBrito/UFES_trajectory"
         >here <-</a
       <br /><br />
      
