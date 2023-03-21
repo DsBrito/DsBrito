@@ -20,11 +20,19 @@
         <a href="https://www.ufes.br/">
           Federal University of Espírito Santo (UFES) </a
         >. <br
-               
+  </a>
+      - My portfolio in english -> 
+      <a href="https://dsbrito.my.canva.site/dsbrito-en"
+         >here <-</a
+      <br /><br />               
+  </a>
+      - My portfolio in portuguese -> 
+      <a href="https://dsbrito.my.canva.site/dsbrito-pt"
+         >here <-</a
+      <br /><br />               
   </a>
      -I’m currently learning new languages (to improve my knowledge)</a
-        >. <br
-     
+        >. <br 
   </a>
    -Pronouns: He/Him</a
         >. <br
