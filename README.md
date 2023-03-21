@@ -134,6 +134,15 @@
         width="40"
         src="https://img.shields.io/badge/assembly-14354C?style=for-the-badge&logo=assembly&logoColor=white"
       />
+      </a>
+    <a href="../../../?tab=repositories&q=&type=&language=javascript&sort=">
+      <img
+        align="center"
+        alt="Javascript"
+        height="30"
+        width="40"
+        src="https://user-images.githubusercontent.com/80075307/226505893-988c703d-8134-4761-b7f8-c733d293c4d7.png"
+      />
     </a>
 
 <h3 align="left">Frameworks and Workspaces</h3>
