@@ -149,7 +149,7 @@
         alt="Javascript"
         height="30"
         width="40"
-        src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-ye.llow.png"
+        src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png"
       />
     </a>
     <a href="../../../?tab=repositories&q=&type=&language=html&sort=">
