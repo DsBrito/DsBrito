@@ -168,7 +168,7 @@
         alt="CSS"
         height="30"
         width="40"
-        src="https://logospng.org/download/css-3/logo-css-3-1024.pngg"
+        src="https://logospng.org/download/css-3/logo-css-3-1024.png"
       />
     </a>
 <h3 align="left">Frameworks and Workspaces</h3>
