@@ -149,7 +149,7 @@
         alt="Javascript"
         height="30"
         width="40"
-        src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-9.jpg"
+        src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-ye.llowpng"
       />
     </a>
     <a href="../../../?tab=repositories&q=&type=&language=html&sort=">
@@ -158,7 +158,7 @@
         alt="HTML"
         height="30"
         width="40"
-        src="https://cdn-icons-png.flaticon.com/512/919/919827.png"
+        src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png"
       />
     </a>
     </a>
@@ -168,7 +168,7 @@
         alt="CSS"
         height="30"
         width="40"
-        src="https://icon-library.com/images/css-icon-png/css-icon-png-0.jpg"
+        src="https://logospng.org/download/css-3/logo-css-3-1024.png"
       />
     </a>
 <h3 align="left">Frameworks and Workspaces</h3>
