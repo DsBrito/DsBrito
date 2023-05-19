@@ -149,7 +149,7 @@
         alt="Javascript"
         height="30"
         width="40"
-        src="https://user-images.githubusercontent.com/80075307/226505893-988c703d-8134-4761-b7f8-c733d293c4d7.png"
+        src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png"
       />
     </a>
     <a href="../../../?tab=repositories&q=&type=&language=html&sort=">
