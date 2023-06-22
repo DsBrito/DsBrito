@@ -183,7 +183,8 @@
   
 ![Docker](https://img.shields.io/badge/docker-b85614.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-b85614.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-b85614.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-b85614?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-b85614?style=for-the-badge&logo=node.js&logoColor=white)
+
 <div style="display: inline_block" align="left">
 
 
